@@ -11,7 +11,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.3",
-        "doctrine/collections": "~1.2",
+        "doctrine/collections": "~2.0",
         "jms/serializer": "^3.18",
         "webit/soap-api": "^2.0.3"
     },
